@@ -1,4 +1,4 @@
-/******************************************************************************
+/*<*****************************************************************************
  *  Compilation:  javac Huffman.java
  *  Execution:    java Huffman - < input.txt   (compress)
  *  Execution:    java Huffman + < input.txt   (expand)
